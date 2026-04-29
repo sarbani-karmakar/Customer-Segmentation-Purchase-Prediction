@@ -2,7 +2,7 @@
 
 **Author:** Sarbani Karmakar
 **Date:** 28 January 2026
-**Module:** Module 4 — Machine Learning
+**Module:** 4 - Machine Learning
 
 ---
 
@@ -13,11 +13,7 @@ This project analyzes a customer transaction dataset from an e-commerce company 
 - **Predict high-value customers** using a supervised classification model (Random Forest)
 
 The goal is to help the business personalize marketing campaigns and forecast future purchase behavior.
-
 ---
-
-## 📁 Repository Structure
-
 ## What's Covered
 - Data Exploration & Preprocessing
 - Customer Segmentation (K-Means Clustering)
