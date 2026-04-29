@@ -1,8 +1,22 @@
-# Customer Segmentation & Purchase Prediction
-A machine learning project on e-commerce customer data.
+# 🛒 Machine Learning Assignment: Customer Segmentation & Purchase Prediction
 
-## Overview
-Segments customers into meaningful groups using K-Means clustering and predicts high-value customers using a Random Forest classifier.
+**Author:** Sarbani Karmakar
+**Date:** 28 January 2026
+**Module:** Module 4 — Machine Learning
+
+---
+
+## 📌 Project Overview
+
+This project analyzes a customer transaction dataset from an e-commerce company to:
+- **Segment customers** into meaningful groups using unsupervised learning (K-Means Clustering)
+- **Predict high-value customers** using a supervised classification model (Random Forest)
+
+The goal is to help the business personalize marketing campaigns and forecast future purchase behavior.
+
+---
+
+## 📁 Repository Structure
 
 ## What's Covered
 - Data Exploration & Preprocessing
